@@ -2,7 +2,7 @@
 
 <p align='center'>
   I'm Jorge Casanova a Peruvian developer, working on improving my skills to be a better Flutter Mobile Developer.
-  Also, have some knowledge and background as a full-stack web developer.
+  Also, I have knowledge and background as a full-stack web developer.
 </p>
 
 <hr>
