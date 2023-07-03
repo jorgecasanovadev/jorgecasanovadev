@@ -1,16 +1,19 @@
 <h1 align='center'>Hi there 🧑🏻‍💻 - I'm Jorge Casanova <img src='https://github.com/jorgecasanovadev/jorgecasanovadev/blob/master/hi_five.gif' height='32' /> 🇵🇪🏃🏽‍♂️</h1>
 
 <p align='center'>
-  I'm Jorge Casanova a peruvian developer, working on improve my skills to be a better full stack web developer.
+  I'm Jorge Casanova a Peruvian developer, working on improving my skills to be a better Flutter Mobile Developer.
+  Also, have some knowledge and background as a full-stack web developer.
 </p>
 
 <hr>
 
-- 🔭 I’m currently working on polish my skills with some projects
-- 🌱 I’m currently learning **Ruby on Rails, Vue.js**
-- 👯 I’m looking to collaborate on learning financial projects
+
+- 🔭 I’m currently working on polishing my skills with some personal projects
+- 🧙🏼‍♂️ Working and learning with **Flutter SDK**
+- 🥷🏼 I have skills in **Ruby on Rails, Vue.js** as a full-stack developer
+- 🙋🏻‍♂️🧑🏻‍💻 I’m looking to collaborate on learning about financial projects
 - 📫 How to reach me: **jcasanovasandoval@gmail.com**
-- ⚡⚡⚡ Fun fact: Trying to be a gumpla modeler <img src='https://github.com/jorgecasanovadev/jorgecasanovadev/blob/master/gundam.png' height='30' width='28'/>
+- ⚡⚡⚡ Fun facts: Trying to be a gumpla modeler <img src='https://github.com/jorgecasanovadev/jorgecasanovadev/blob/master/gundam.png' height='30' width='28'/>
 
 
 <hr>
